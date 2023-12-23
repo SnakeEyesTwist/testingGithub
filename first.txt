@@ -1,3 +1,9 @@
 Hello!
 Learning git commands
 So best I practice more
+
+
+So I learnt branching, it's cool
+commit are crazy
+git add 
+git checkout uhhhhh
