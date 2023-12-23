@@ -1,0 +1,5 @@
+More fun
+cool git commands
+git push are nice
+There's pull request, main branch, merge commands
+There's a lot to learn
